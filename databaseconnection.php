@@ -1,6 +1,5 @@
 <?php
 /**
- **by Alireza Negahdari Khorsandfard
  ** All right reserved
  **/
 class DatabaseConnection
